@@ -1,2 +1,2 @@
 # Your-digital-pizza-slicer
-the source is open as well
+The source is open as well
