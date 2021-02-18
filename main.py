@@ -6,10 +6,10 @@ draw = ImageDraw.Draw(im) # Getting ready
 
 slices = int(input("how many pizza slices would you like \n")) # Asking the user
 
-x1 = 150 # Determining where the circe should be
-y1 = 150 # The same as above
-x2 = 400
-y2 = 400
+x1 = 119 # Determining where the circe should be
+y1 = 125 # The same as above
+x2 = 369
+y2 = 375
 ang = 0 # A variable to keep track of were the last slice were made
 constAng = 360 / slices # How big each slice have to be
 a = (x2 - x1) / 2 # The vertical radius
